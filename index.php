@@ -51,9 +51,6 @@ imagefilledellipse($im, 0.7 * $x, 0.525 * $x, 0.1 * $x, 0.1 * $x / 2, $pink);
 imagefilledellipse($im, 0.4 * $x, 0.4 * $x, 0.075 * $x, 0.1 * $x, $black);
 imagefilledellipse($im, 0.6 * $x, 0.4 * $x, 0.075 * $x, 0.1 * $x, $black);
 
-// imagefilledellipse($im, 0.425 * $x, 0.375 * $x, 0.025 * $x, 0.025 * $x, $white);
-// imagefilledellipse($im, 0.625 * $x, 0.375 * $x, 0.025 * $x, 0.025 * $x, $white);
-
 imagefilledellipse($im, 0.41 * $x, 0.375 * $x, 0.025 * $x, 0.025 * $x, $white);
 imagefilledellipse($im, 0.59 * $x, 0.375 * $x, 0.025 * $x, 0.025 * $x, $white);
 
